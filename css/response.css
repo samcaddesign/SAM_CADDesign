@@ -1,3 +1,7 @@
+*{
+    letter-spacing: normal;
+}
+
 @media only screen and (max-width:425px){
     
     /*---------slider-------------*/
@@ -187,10 +191,10 @@
     #feature h2{
         font-size: x-large;
     }
-    #feature .feature-heading h6{
+    #feature .feature-heading p{
         font-size: small;
     }
-    #feature .feature-flex h5{
+    #feature .feature-flex h6{
         font-size: small;
     }
     #feature .feature-flex > div{
